@@ -1,4 +1,4 @@
-###Internal Developer Job Posting
+### Internal Developer Job Posting
 
 ---
 It’s interesting how systems get more complex as they grow and mature.  
@@ -10,7 +10,7 @@ together our back-office systems and writing custom software to make our awesome
  the 
  smile that your software brings to your customer’s face.
 
-####Key Responsibilities
+#### Key Responsibilities
 
 From tying together our accounting and billing infrastructure to building out 
 analytics for our growing sales team, you’ll be directly responsible for 
@@ -21,7 +21,7 @@ ability to drill down to what makes the best lead, and forecast future growth.
 Work directly with the operations and sales teams, iterating quickly on their 
 feedback.
 
-####More About You
+#### More About You
 
 + You have 3+ years of experience as a full-stack developer, preferably 
 building software for an internal team.
@@ -35,7 +35,7 @@ opinions to the table.
 + You have an excellent command of written and spoken English, and communicate
  about what you're doing with your coworkers.
 
-####More About Us
+#### More About Us
 
 Our developers and designers run the show with management existing only to 
 support, not dictate. We hire creative people and give them the autonomy to do 
@@ -53,7 +53,7 @@ ability, disability, religious beliefs or disbeliefs, national origin, age,
 military service eligibility, veteran status, marital status, parental status, 
 or caregiver status.
 
-####How to apply…
+#### How to apply…
 
 Write code (in the text box provided below) to find a 9 letter string of 
 characters that contains only letters from
